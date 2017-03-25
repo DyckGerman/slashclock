@@ -1,4 +1,4 @@
-var Clock = require('./slashclock.js').slashClock;
+var Clock = require('./index.js').slashClock;
 
 var clock = new Clock();
 clock.startClock();
