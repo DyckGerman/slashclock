@@ -1,0 +1,19 @@
+{
+  "name": "slashclock",
+  "version": "0.0.1",
+  "description": "NodeJS progress bar for terminal output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DyckGerman/slashclock.git"
+  },
+  "author": "Dyck German",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DyckGerman/slashclock/issues"
+  },
+  "homepage": "https://github.com/DyckGerman/slashclock#readme"
+}
