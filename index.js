@@ -5,7 +5,7 @@ exports.slashClock = function () {
 
     this.resetClock = () => {
         process.stdout.write('\r                                                                              ');
-        seconds = 0;
+        notRealTime = 0;
         slashes = '';
     }
 
